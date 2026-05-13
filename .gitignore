@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv
+venv/
+ENV/
+env/
+
+# Data
+*.json
+*.csv
+# If you want to include specific data, uncomment them or add them specifically
+
+# IDE
+.vscode/
+.idea/
