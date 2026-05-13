@@ -16,3 +16,16 @@ Run `python src/preprocessing.py` to process the data.
 
 
 Project initialized successfully.
+
+
+
+## Dataset Files
+
+- cleaned_reviews.csv  
+  https://drive.google.com/file/d/1yz5bxVlxgJ0H1dqHXv6RMBK3t-MnV3PS/view?usp=sharing
+
+- processed_reviews.csv  
+  https://drive.google.com/file/d/14aHzBALheLyQCT_L-2fFtMzx9vjiJk1J/view?usp=sharing
+
+- Electronics.json  
+  Large dataset stored externally due to GitHub file size limitations.
