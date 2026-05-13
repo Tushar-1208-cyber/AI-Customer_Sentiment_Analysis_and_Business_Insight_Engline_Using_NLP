@@ -19,6 +19,7 @@ Project initialized successfully.
 
 
 
+
 ## Dataset Files
 
 - cleaned_reviews.csv  
@@ -28,4 +29,4 @@ Project initialized successfully.
   https://drive.google.com/file/d/14aHzBALheLyQCT_L-2fFtMzx9vjiJk1J/view?usp=sharing
 
 - Electronics.json  
-  Large dataset stored externally due to GitHub file size limitations.
+  https://drive.google.com/file/d/1DjwEsi2xUqtyD_oKJUC9yd286_tGMOlJ/view?usp=sharing
